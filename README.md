@@ -14,3 +14,4 @@ npm start
 [Currency Converter App video](https://youtu.be/2vFcIZIxIww)
 
 scrrenshots are here ->
+![Снимок экрана 2024-06-09 233343](https://github.com/AibekKarshiboev/front-endFinalConverter/assets/81102375/4ac0b8e6-b929-4814-902e-d4a9eab58159)
