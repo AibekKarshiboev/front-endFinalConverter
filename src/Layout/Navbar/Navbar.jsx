@@ -7,6 +7,7 @@ const Navbar = () => {
     return (
         <Box className='header'>
             <Link className='text' to='/converter'>Converter</Link>
+            <div className='line'></div>
             <Link className='text' to='/foodConverter'>Converter Food</Link>
         </Box>
     );
