@@ -14,13 +14,3 @@ npm start
 [Currency Converter App video](https://youtu.be/2vFcIZIxIww)
 
 scrrenshots are here ->
-
-![image](./src/screenshots/WCAqojv.png)
-
-![image](./src/screenshots/18WjagF%20-%20Imgur.png)
-
-![image](./src/screenshots/rywwu7x%20-%20Imgur.png)
-
-![image](./src/screenshots/viWgSOg%20-%20Imgur.png)
-
-![image](./src/screenshots/wBZ3lGe%20-%20Imgur.png)
