@@ -1,5 +1,5 @@
 Hello!
-This is my project for Final!
+This is my project for chanse to the state and  diploma exams.
 its simple web-app, Currency Converter and additionaly converter of food.
 
 To start tihs project, just write this commands
