@@ -20,7 +20,7 @@ const ConverterAdditional = () => {
         Toiboss: 85,
     };
 
-    const usdToSomRate = 89.31;
+    const usdToSomRate = 87.30;
     
     useEffect(() => {
         if (convertProduct.to === 'usd') {
